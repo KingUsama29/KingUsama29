@@ -1,14 +1,18 @@
-<h2 align="left">Welcome Guys 👋✨</h2>
+<h1 align="center">Welcome Guys 👋✨</h1>
 
 ###
 
-<p align="left">Halo, saya Usama Fadlilah, seorang Fullstack Developer dengan ketertarikan dan spesialisasi di bidang Backend Development 💕😁</p>
+<h5 align="center">Halo, saya Usama Fadlilah, seorang Fullstack Developer dengan ketertarikan dan spesialisasi di bidang Backend Development 💕😁</h5>
 
 ###
 
 <div align="center">
   <img height="1000" width="900" src="https://media.tenor.com/VR0K7_RCFCkAAAAM/jujutsu-kaisen-jujutsukaisen.gif"  />
 </div>
+
+###
+
+<h2 align="center">✨ I Code With ✨</h2>
 
 ###
 
@@ -36,6 +40,14 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<h2 align="center">📱 My Social Media 📱</h2>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -52,6 +64,14 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<h2 align="center">❇️ My Public Contributions ❇️</h2>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph.svg">
@@ -60,14 +80,34 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:KingUsama29?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+<p align="left"></p>
 
 ###
+
+<br clear="both">
+
+<img align="left" src="https://count.getloli.com/@:KingUsama29?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=0"  />
+
+###
+
+<h2 align="left">💖 My Beloved Guests 💖</h2>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###

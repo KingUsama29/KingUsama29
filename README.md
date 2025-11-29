@@ -1,4 +1,4 @@
-<h2 align="left">Selamat Datang 👋</h2>
+<h2 align="left">Hi Guys!! Selamat Datang di Githubku 😎</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="1000" width="1000" src="https://media.tenor.com/VR0K7_RCFCkAAAAM/jujutsu-kaisen-jujutsukaisen.gif"  />
+  <img height="1000" widht="900" src="https://media.tenor.com/VR0K7_RCFCkAAAAM/jujutsu-kaisen-jujutsukaisen.gif"  />
 </div>
 
 ###
@@ -47,7 +47,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KingUsama29/KingUsama29/output/pacman-contribution-graph.svg">
 </picture>

@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="600" width="800" src="https://media.tenor.com/VR0K7_RCFCkAAAAM/jujutsu-kaisen-jujutsukaisen.gif"  />
+  <img height="500" width="800" src="https://media.tenor.com/VR0K7_RCFCkAAAAM/jujutsu-kaisen-jujutsukaisen.gif"  />
 </div>
 
 ###
